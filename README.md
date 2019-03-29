@@ -20,10 +20,10 @@ Classification of Urban Sound Audio Dataset using LSTM-based model.
 - Download 'bestModel.pt' from this <a href="https://drive.google.com/open?id=1oUWUiUr-3AIB8c1BOZcFfHgdBEVHaFLC">Link</a> and place in the current directory.
 
 - Run the following commands:
-'''
+```
 python preprocess.py
 python eval.py
-'''
+```
 
 - A csv file named <b>'test_predictions.csv'</b> will be generated in the current directory containing all the test files along with their corresponding predicted labels. 
 
