@@ -11,5 +11,7 @@ Classification of Urban Sound Audio Dataset using LSTM-based model.
 - numpy==1.14.3
 - torchaudio==0.2
 - librosa==0.6.3
+- pydub==0.23.1
 
 ### Steps to follow for testing on your Test Data
+
