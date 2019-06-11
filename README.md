@@ -27,3 +27,7 @@ python eval.py
 
 - A csv file named <b>'test_predictions.csv'</b> will be generated in the current directory containing all the test files along with their corresponding predicted labels. 
 
+### Team
+- Anish Madan
+- Sarthak Bhagat
+- Shagun Uppal
