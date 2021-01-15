@@ -31,3 +31,14 @@ python eval.py
 - Anish Madan
 - Sarthak Bhagat
 - Shagun Uppal 
+
+### Citation
+
+In case you find any of this useful, consider citing:
+
+@misc{audio-classification-using-LSTM,
+  author = {Shagun Uppal, Anish Madan, Sarthak Bhagat},
+  title = {sarthak268/Audio_Classification_using_LSTM},
+  url = {https://github.com/sarthak268/Audio_Classification_using_LSTM},
+  year = {2019}
+}
