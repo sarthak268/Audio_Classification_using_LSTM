@@ -43,4 +43,4 @@ In case you find any of this useful, consider citing:
 ### Team
 - Anish Madan
 - Sarthak Bhagat
-- Shagun Uppal 
+- Shagun Uppal  
