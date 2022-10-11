@@ -1,6 +1,6 @@
 # Audio Classification using LSTM
 
-Classification of Urban Sound Audio Dataset using LSTM-based model.
+Classification of Urban Sound Audio Dataset using LSTM-based neural model.
 
 ### Requirements
 ```
